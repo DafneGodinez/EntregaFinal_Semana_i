@@ -13,9 +13,7 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-const char* ssid = "Tec"; 
-#define EAP_IDENTITY "A01730779@tec.mx"
-#define EAP_PASSWORD "@M2iles7"
+
 
 // Insert Firebase project API Key
 #define API_KEY "AIzaSyCJp3wOiDbR_zhVGDhq88HtoQ6bXp8NqQg"
